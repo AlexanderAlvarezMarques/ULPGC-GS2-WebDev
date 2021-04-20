@@ -37,6 +37,12 @@ header {
   width: 100%;
 }
 
+.offers .card .card-body .price {
+  text-align: left;
+  font-size: 1.5em;
+  margin: 15px 0;
+}
+
 .offers img {
   width: 100%;
   border-radius: 10px;
