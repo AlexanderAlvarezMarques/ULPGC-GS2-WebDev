@@ -26,7 +26,7 @@
   <!-- TEMPLATE CSS -->
   <link rel="stylesheet" href="/assets/css/lightGallery.css" type="text/css" media="all" />
   <link href="/assets/css/owl.theme.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all">
+  <link rel="stylesheet" href="/assets/css/owl.carousel.css" type="text/css" media="all">
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/assets/css/custom-styles.css">
