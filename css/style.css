@@ -397,6 +397,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .rslides img {
   height: auto;
   border: 0;
+  width: 100%;
   }
 .callbacks_tabs{
        list-style: none;
