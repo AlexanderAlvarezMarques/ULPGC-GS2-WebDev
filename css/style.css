@@ -21,6 +21,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin: 25px auto;
+  margin-top: 15px;
 }
 
 .offers .card {
@@ -1091,7 +1092,7 @@ ul#lightGallery {
   border-radius: 0;
   background: #f0f0f0;
   color: #aaa;
-  =-webkit-appearance: none;
+  -webkit-appearance: none;
   /* for box shadows to show on iOS */
 }
 
