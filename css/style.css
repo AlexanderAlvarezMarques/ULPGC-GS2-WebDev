@@ -21,7 +21,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin: 25px auto;
-  margin-top: 15px;
+  width: 80%;
 }
 
 .offers .card {
@@ -29,6 +29,7 @@ header {
   border: 1px grey solid;
   background-color: black;
   color: lightgray;
+  margin-top: 15px;
 }
 
 .offers .card .card-title {
