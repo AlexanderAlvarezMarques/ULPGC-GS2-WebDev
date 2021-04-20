@@ -6,6 +6,49 @@ header {
   background-color: white;
 }
 
+.offers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 25px auto;
+}
+
+.offers .card {
+  border-radius: 10px;
+  border: 1px grey solid;
+  background-color: black;
+  color: lightgray;
+}
+
+.offers .card .card-title {
+  font-size: 1.3em;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.offers .card .card-body {
+  padding: 10px;
+  text-align: justify;
+}
+
+.offers .card .card-body .link {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.offers img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 570px) {
+  .offers .card {
+    width: 100%;
+    margin-top: 25px;
+  }
+}
+
 /*--
 Author: W3layouts
 Author URL: http://w3layouts.com
