@@ -5,6 +5,16 @@ header {
 	z-index: 10;
 	background-color: white;
   }
+
+  .ini-sesion {
+	margin-top: 88px;
+  }
+
+  .ini-sesion .submit{
+	margin-top: 120px !important;
+}
+
+
   
   /*--
   Author: W3layouts
